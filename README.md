@@ -1,2 +1,2 @@
 # Java
-dsjdbs,a
+It is traffic light simulation, bulit with java applet
